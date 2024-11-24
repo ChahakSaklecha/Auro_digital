@@ -1,6 +1,7 @@
 # AI-Powered Mock Interview Platform
 
 ## Overview
+![AI Mock Interview](/image.png)
 
 The AI-Powered Mock Interview Platform is a next-generation solution designed to help job seekers improve their interview skills. With AI-driven feedback, a diverse question bank, and tailored experiences, users can confidently prepare for their dream job interviews.
 
