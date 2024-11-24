@@ -1,46 +1,55 @@
 # AI-Powered Mock Interview Platform
 
-## Description
-This is an advanced and interactive AI-powered mock interview platform designed to help job seekers practice and improve their interview skills. Built with Next.js, Tailwind CSS, and Gemini Api,PostgreSQL, Drizzle ORM, it provides users with a good interview experience to enhance their chances of landing their dream job.
+## Overview
 
-## Features
-- AI-driven Interview: interview questions and feedback powered by AI.
-- Personalized Interview Experiences: Tailor interview sessions based on job roles and industries.
-- User Experience Level Questions: Questions are adjusted based on the user's experience level, ensuring relevance and appropriate difficulty.
-- Detailed Feedback and Insights: Receive detailed feedback on your performance, including strengths, areas for improvement, and actionable tips.
-- Question Bank: Access a wide range of interview questions across different domains and difficulty levels.
-- Overall Grade: Receive an overall grade for each interview session, providing a quick assessment of your performance.
-- Recent Interviews: Easily access and review your recent interview sessions directly from the home page.
+The AI-Powered Mock Interview Platform is a next-generation solution designed to help job seekers improve their interview skills. With AI-driven feedback, a diverse question bank, and tailored experiences, users can confidently prepare for their dream job interviews.
 
-## Getting Started
-To get started with the AI-Powered Mock Interview Platform, follow these steps:
+---
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/teibokchyne/AuroDigital.git
+## Key Features
 
-2. Navigate to the project directory:
-   ```bash
-   cd ai-mock-interview
+### 🎯 AI-Driven Interview Experience
+- Generate dynamic, role-specific interview questions.
+- Receive AI-powered feedback to refine your responses.
 
-3. Install dependencies by running: `npm install` or `yarn install`
+### 🛠️ Personalized Mock Interviews
+- Customize sessions based on:
+  - Job roles (e.g., software developer, data analyst).
+  - Industries (e.g., tech, healthcare, finance).
+  - Experience levels (entry-level, mid-career, senior).
 
-4. Start the Server `npm run dev` or `yarn dev`
+### 📊 Detailed Feedback & Grading
+- Performance breakdown:
+  - Strengths, areas for improvement, and actionable tips.
+- Overall grade for a quick assessment.
 
-5. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
+### 📂 Question Bank
+- Access a wide array of questions across domains and difficulty levels.
+
+### 🔄 Recent Interviews
+- Quickly review and analyze past interview sessions from the homepage.
+
+---
 
 ## Technologies Used
-- Next.js: A React framework for building server-side rendered and static web applications.
-- Gemini API: Provides an interface for accessing the AI interview functionalities.
-- PostgreSQL: A powerful, open-source object-relational database system.
-- Neon Serverless: A serverless deployment for PostgreSQL, offering scalability and ease of use.
-- Drizzle ORM: An ORM that makes database interactions simpler and more intuitive.
 
-## Usage
-To use the AI-Powered Mock Interview Platform, follow these guidelines:
-- Create an Account: Sign up to start your mock interview sessions.
-- Choose Interview Type: Select the type of interview (e.g., technical, behavioral) and job role
-- Start Interview: Begin your mock interview and respond to the AI-generated questions.
-- Receive Feedback: After completing the interview, get detailed feedback and insights to improve.
-- Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
+- **Frontend**: [Next.js](https://nextjs.org/) for a fast and responsive user interface.
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) for modern and sleek designs.
+- **Backend & API**: 
+  - [Gemini API](https://example.com/gemini) for AI-powered interview functionalities.
+  - [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) for database interactions.
+- **Database**: [PostgreSQL](https://www.postgresql.org/), with **Neon Serverless** for scalability.
 
+---
+
+## Getting Started
+
+### Prerequisites
+- Install [Node.js](https://nodejs.org/).
+- Install your preferred package manager (npm or yarn).
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ai-mock-interview-platform.git
