@@ -29,20 +29,6 @@ The AI-Powered Mock Interview Platform is a next-generation solution designed to
 ### 🔄 Recent Interviews
 - Quickly review and analyze past interview sessions from the homepage.
 
----
-
-## Technologies Used
-
-- **Frontend**: [Next.js](https://nextjs.org/) for a fast and responsive user interface.
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) for modern and sleek designs.
-- **Backend & API**: 
-  - [Gemini API](https://example.com/gemini) for AI-powered interview functionalities.
-  - [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) for database interactions.
-- **Database**: [PostgreSQL](https://www.postgresql.org/), with **Neon Serverless** for scalability.
-
----
-
-
 
 ### Installation
 
