@@ -18,6 +18,7 @@ The AI-Powered Mock Interview Platform is a next-generation solution designed to
   - Job roles (e.g., software developer, data analyst).
   - Industries (e.g., tech, healthcare, finance).
   - Experience levels (entry-level, mid-career, senior).
+  ![AI Mock Interview](/image1.png)
 
 ### 📊 Detailed Feedback & Grading
 - Performance breakdown:
