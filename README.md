@@ -42,11 +42,7 @@ The AI-Powered Mock Interview Platform is a next-generation solution designed to
 
 ---
 
-## Getting Started
 
-### Prerequisites
-- Install [Node.js](https://nodejs.org/).
-- Install your preferred package manager (npm or yarn).
 
 ### Installation
 
