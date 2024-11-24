@@ -48,4 +48,4 @@ The AI-Powered Mock Interview Platform is a next-generation solution designed to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-mock-interview-platform.git
+   git clone https://github.com/ChahakSaklecha/Auro_digital.git
